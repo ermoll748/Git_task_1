@@ -1,1 +1,15 @@
 
+h6 {
+    color: rgb(208, 199, 199);
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+h3 {
+    margin-left: 50px;
+}
+
+p {
+    padding-left: 50px;
+    padding-right: 50px;
+}
